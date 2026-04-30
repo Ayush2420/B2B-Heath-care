@@ -1,5 +1,5 @@
 import { combineReducers } from "@reduxjs/toolkit";
-import loginController from "../pages/Login/loginController";
+import loginController from "../pages/login/loginController";
 import dashboardController from "../pages/dasboard/dashboardController.jsx";
 import analyticsController from "../pages/analytics/analyticsController.jsx";
 import patientsController from "../pages/patient/patientsController.jsx";
